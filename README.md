@@ -29,4 +29,4 @@ It won't override the already translated items, but be sure to make a backup jus
 
 Have fun with it, if you like it, let me know: 
 Remco@remcojanssen.nl
-#remcoj
+Twitter: @remcoj
